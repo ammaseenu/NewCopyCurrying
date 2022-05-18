@@ -1,0 +1,9 @@
+CURRYING
+********
+programtically:-
+---------------
+currying means coverting  a funtion that takies n parameters into n functions that each
+take asingle argumnets and return a fuction of one argument or restart in cas of last function
+ In our language:-
+****************
+oka function lo n paramters 
